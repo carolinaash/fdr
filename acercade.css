@@ -110,13 +110,6 @@ nav ul li a:hover {
     color: #ffeb3b; 
 }
 
-/* Estilo para el mapa */
-.map-container {
-    width: 20%;
-    height: 50px; 
-    margin-top: 5px; 
-}
-
 main {
     flex: 1;
     display: flex; 
